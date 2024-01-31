@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NavigationSample</string>
+    <string name="view_profile">View Profile</string>
+    <string name="welcome">Welcome %s</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_account">Create Account</string>
+
+    <!-- App titles -->
+    <string name="home_label">Navigation Sample</string>
+    <string name="sign_in_label">Sign In</string>
+    <string name="sign_up_label">Sign Up</string>
+    <string name="view_profile_label">My Profile</string>
+</resources>
